@@ -210,6 +210,7 @@
 				TargetAttributes = {
 					1C64286F1F2F31D9001ED72F = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = U99WM52CR7;
 						ProvisioningStyle = Automatic;
 					};
 					1C64288B1F2F31DA001ED72F = {
@@ -430,7 +431,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = U99WM52CR7;
 				INFOPLIST_FILE = tttt/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.linqingmo.tttt;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -441,7 +444,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = U99WM52CR7;
 				INFOPLIST_FILE = tttt/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.linqingmo.tttt;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -513,6 +518,7 @@
 				1C6428A21F2F31DA001ED72F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1C6428A31F2F31DA001ED72F /* Build configuration list for PBXNativeTarget "ttttTests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +527,7 @@
 				1C6428A51F2F31DA001ED72F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1C6428A61F2F31DA001ED72F /* Build configuration list for PBXNativeTarget "ttttUITests" */ = {
 			isa = XCConfigurationList;
@@ -529,6 +536,7 @@
 				1C6428A81F2F31DA001ED72F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
